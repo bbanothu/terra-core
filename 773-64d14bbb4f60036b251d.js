@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[773],{1576:function(e,n,t){"use strict";t.r(n);var a=t(0),i=t.n(a),r=t(304);n.default=function(){return i.a.createElement("div",{role:"main"},i.a.createElement(r.default,{id:"link",href:"https://www.cerner.com",variant:"audio"},"Audio hyperlink"))}}}]);
